@@ -1,10 +1,10 @@
 {
-  "name": "@octodemo/node-calculator",
-  "version": "1.0.0",
-  "description": "Calculator",
+  "name": "@fatcomma/node-calculator",
+  "version": "0.9.0",
+  "description": "Calculator in Node.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/octodemo/node-calculator.git"
+    "url": "git+https://github.com/fatcomma/learning-day-april-2021.git"
   },
   "main": "index.js",
   "scripts": {
@@ -20,7 +20,7 @@
     "ci",
     "cd"
   ],
-  "author": "Edward Thomson <ethomson@microsoft.com>",
+  "author": "Foo Bar <foobar@github.com>",
   "license": "MIT",
   "dependencies": {
     "express": "^4.16.4"
@@ -36,9 +36,9 @@
     "supertest": "^3.4.2"
   },
   "bugs": {
-    "url": "https://github.com/octodemo/node-calculator/issues"
+    "url": "https://github.com/fatcomma/learning-day-april-2021/issues"
   },
-  "homepage": "https://github.com/octodemo/node-calculator#readme",
+  "homepage": "https://github.com/fatcomma/learning-day-april-2021",
   "directories": {
     "test": "test"
   }
